@@ -1,2 +1,2 @@
 # My-Portfolio
-This repository contains the code for my personal portfolio site.
+This repository contains the code for my personal portfolio website.
